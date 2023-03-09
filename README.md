@@ -1,4 +1,4 @@
-# vistapanel-php-api
+# All in one VistaPanel Client 
 An PHP library for VistaPanel, fork of https://github.com/oddmario/vistapanel-php-api
 
 PLEASE NOTE: This library is for the users. If you want to create, suspend, and unsuspend accounts please see https://github.com/HansAdema/mofh-client
